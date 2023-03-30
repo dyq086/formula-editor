@@ -1,3 +1,7 @@
+#demo
+
+https://formula-editor-production.up.railway.app/
+
 # codeMirror6
 <img src="https://github.com/dyq086/formula-editor/blob/master/snipaste.png" width="950" height="auto"/>
 
